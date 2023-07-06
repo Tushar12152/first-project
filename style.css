@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main-container{
+    background-color: gray;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    padding:20px;
+    color:white;
+}
+.logo-photo{
+    width:120px;
+}
+.list{
+    display:flex;
+    list-style:none;
+    justify-content:space-around;
+}
+.item{
+    margin:10px;
+    cursor:pointer;
+}
