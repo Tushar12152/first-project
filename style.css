@@ -175,3 +175,40 @@
     background-color: aliceblue;
 
 }
+.footer-conteinar{
+    background-color: black;
+    opacity:0.7;
+    color:white;
+    margin-top:80px;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    height:300px;
+    padding-left:20px;
+    
+}
+.footer-img{
+    width:200px;
+}
+.logo-p{
+margin-top: 20px;
+}
+
+.footer-h{
+    padding:20px;
+    margin-left: 20px;;
+}
+.lit{
+    padding:20px;
+    margin-left: 20px;
+}
+.sp{
+    margin-left:20px;
+    padding:20px;
+}
+.footer-info{
+    padding:20px;
+}
+.txt{
+    padding:20px;
+}
