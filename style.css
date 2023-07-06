@@ -3,7 +3,7 @@
     padding:0;
 }
 .main-container{
-    background-color:#000000;
+    background-color:gray;
     display:flex;
     align-items:center;
     justify-content:space-around;
@@ -26,4 +26,36 @@
 }
 .item:hover{
     color:blueviolet;
+}
+.photo{
+    width:300px;
+}
+.banner-container{
+    width:100%;
+    border:1px solid;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    height:500px;
+    background-image:url(IMG/background.png);
+    background-color:black;
+}
+.banner-text{
+    color:white;
+    
+}
+.title{
+    padding:10px;
+    font-size:30px;
+}
+.description{
+    padding:10px;
+    font-size:15px;
+}
+.btn{
+    padding:10PX;
+    background-color: red;
+    color:white;
+    margin-left:5px;
+    cursor:pointer;
 }
