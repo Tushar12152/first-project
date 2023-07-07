@@ -212,3 +212,14 @@ margin-top: 20px;
 .txt{
     padding:20px;
 }
+.copy{
+    background-color: black;
+    opacity:.7;
+    padding:10px;
+
+
+}
+.c-text{
+    color:white;
+    text-align:center;
+}
